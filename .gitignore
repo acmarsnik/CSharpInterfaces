@@ -187,3 +187,7 @@ FakesAssemblies/
 04-DynamicLoading/.vs/DynamicLoading/v15/Server/sqlite3/storage.ide
 04-DynamicLoading/.vs/DynamicLoading/v15/Server/sqlite3/db.lock
 .vs/slnx.sqlite
+01-Polygons/.vs/Polygons/v15/Server/sqlite3/storage.ide-wal
+01-Polygons/.vs/Polygons/v15/Server/sqlite3/storage.ide-shm
+01-Polygons/.vs/Polygons/v15/Server/sqlite3/db.lock
+01-Polygons/.vs/Polygons/v15/Server/sqlite3/storage.ide
