@@ -182,3 +182,8 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+04-DynamicLoading/.vs/DynamicLoading/v15/Server/sqlite3/storage.ide-wal
+04-DynamicLoading/.vs/DynamicLoading/v15/Server/sqlite3/storage.ide-shm
+04-DynamicLoading/.vs/DynamicLoading/v15/Server/sqlite3/storage.ide
+04-DynamicLoading/.vs/DynamicLoading/v15/Server/sqlite3/db.lock
+.vs/slnx.sqlite
